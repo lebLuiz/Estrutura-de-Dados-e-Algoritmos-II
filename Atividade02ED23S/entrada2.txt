@@ -1,0 +1,2 @@
+Como declarar o tipo char em C
+Para declarar, usamos a seguinte sintaxe; char nomeDaVariavel; Ao fazermos isso, estamos alocando 1 byte de memória para guardar nosso caractere. Se você quiser armazenar mais caracteres, temos que usar as Strings, que são um conjunto de caracteres, usados para escrever textos maiores.

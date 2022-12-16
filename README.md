@@ -1,0 +1,1 @@
+Esse repositório é dos projetos de estudo das disciplinas Estrutura de Dados e Algoritmos II, feito durante o 3º semestre da minha graduação em Engenharia de Software na Universidade Tecnológica Federal do Paraná.
